@@ -1,10 +1,5 @@
 package org.example.graph_algorithm;
 
-/**
- *
- */
-
-
 import java.util.*;
 
 class Graph {

@@ -3,7 +3,7 @@ import java.util.*;
 
 class HashTable {
     public static void main(String[] args) {
-        Hashtable<Integer, Integer> ht = new Hashtable<Integer, Integer>();
+        Hashtable<Integer, Integer> ht = new Hashtable<>();
 
         ht.put(123, 432);
         ht.put(12, 2345);
